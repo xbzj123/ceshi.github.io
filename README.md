@@ -35,7 +35,7 @@
     </style>
 </head>
 <body>
-<p>图片轮播</p>
+<p></p>
 <div class="imgBox">
     <img class="img-slide img1" src="https://pic.imgdb.cn/item/62931864094754312914ff79.jpg" alt="1">
     <img class="img-slide img2" src="https://pic.imgdb.cn/item/6294dee30947543129597092.jpg" alt="2">
