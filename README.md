@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-
 <html xmlns="http://www.w3.org/1999/xhtml">
 
 <head>
@@ -144,7 +142,7 @@
 
    text-align: center;
 
-   padding-top: 10px;
+   padding-top: 0px;
 
 }
 
@@ -156,7 +154,7 @@
 
    height: 5px;
 
-   padding-top: 4px;
+   padding-top: 0px;
 
    cursor: pointer;
 
