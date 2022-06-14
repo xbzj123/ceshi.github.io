@@ -1,56 +1,104 @@
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-60f24d4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="60f24d4" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-no">
-					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-9714606 elementor-invisible" data-id="9714606" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;}">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-cbd8d27 elementor-widget elementor-widget-jkit_post_block" data-id="cbd8d27" data-element_type="widget" data-widget_type="jkit_post_block.default">
+						</ul>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-77e7fb3 elementor-widget elementor-widget-heading" data-id="77e7fb3" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<div  class="jeg-elementor-kit jkit-postblock postblock-type-1 jkit-pagination-disable post-element jeg_module_6_13_62a821fc830a0"  data-id="jeg_module_6_13_62a821fc830a0" data-settings="{&quot;post_type&quot;:&quot;post&quot;,&quot;number_post&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:4,&quot;sizes&quot;:[]},&quot;post_offset&quot;:0,&quot;unique_content&quot;:&quot;disable&quot;,&quot;include_post&quot;:&quot;&quot;,&quot;exclude_post&quot;:&quot;&quot;,&quot;include_category&quot;:&quot;&quot;,&quot;exclude_category&quot;:&quot;&quot;,&quot;include_author&quot;:&quot;&quot;,&quot;include_tag&quot;:&quot;&quot;,&quot;exclude_tag&quot;:&quot;&quot;,&quot;sort_by&quot;:&quot;latest&quot;,&quot;pagination_mode&quot;:&quot;disable&quot;,&quot;pagination_loadmore_text&quot;:&quot;Load More&quot;,&quot;pagination_loading_text&quot;:&quot;Loading...&quot;,&quot;pagination_number_post&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:3,&quot;sizes&quot;:[]},&quot;pagination_scroll_limit&quot;:0,&quot;pagination_icon&quot;:{&quot;value&quot;:&quot;&quot;,&quot;library&quot;:&quot;&quot;},&quot;pagination_icon_position&quot;:&quot;before&quot;,&quot;st_category_position&quot;:&quot;center&quot;,&quot;sg_content_postblock_type&quot;:&quot;type-1&quot;,&quot;sg_content_title_html_tag&quot;:&quot;h3&quot;,&quot;sg_content_category_enable&quot;:&quot;&quot;,&quot;sg_content_excerpt_enable&quot;:&quot;yes&quot;,&quot;sg_content_excerpt_length&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:12,&quot;sizes&quot;:[]},&quot;sg_content_excerpt_more&quot;:&quot;&quot;,&quot;sg_content_readmore_enable&quot;:&quot;yes&quot;,&quot;sg_content_readmore_icon&quot;:{&quot;value&quot;:&quot;jki jki-arrow-right-light&quot;,&quot;library&quot;:&quot;jkiticon&quot;},&quot;sg_content_readmore_icon_position&quot;:&quot;after&quot;,&quot;sg_content_readmore_text&quot;:&quot;Read More&quot;,&quot;sg_content_comment_heading&quot;:&quot;&quot;,&quot;sg_content_comment_enable&quot;:&quot;&quot;,&quot;sg_content_comment_icon&quot;:{&quot;value&quot;:&quot;fas fa-comment&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;sg_content_comment_icon_position&quot;:&quot;before&quot;,&quot;sg_content_meta_enable&quot;:&quot;yes&quot;,&quot;sg_content_meta_author_enable&quot;:&quot;&quot;,&quot;sg_content_meta_author_by_text&quot;:&quot;&quot;,&quot;sg_content_meta_author_icon&quot;:{&quot;value&quot;:&quot;&quot;,&quot;library&quot;:&quot;&quot;},&quot;sg_content_meta_author_icon_position&quot;:&quot;after&quot;,&quot;sg_content_meta_date_enable&quot;:&quot;yes&quot;,&quot;sg_content_meta_date_type&quot;:&quot;published&quot;,&quot;sg_content_meta_date_format&quot;:&quot;default&quot;,&quot;sg_content_meta_date_format_custom&quot;:&quot;F j, Y&quot;,&quot;sg_content_meta_date_icon&quot;:{&quot;value&quot;:&quot;fas fa-clock&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;sg_content_meta_date_icon_position&quot;:&quot;before&quot;,&quot;sg_content_image_size_imagesize_size&quot;:&quot;full&quot;,&quot;paged&quot;:1,&quot;class&quot;:&quot;jkit_post_block&quot;}"><div class="jkit-block-container"><div class="jkit-posts jkit-ajax-flag">
-            <article class="jkit-post post-454 post type-post status-publish format-standard has-post-thumbnail hentry category-event tag-news tag-politic">
-                    <div class="jkit-thumb"><a href="https://templatekit.jegtheme.com/coestra/2021/09/15/us-military-branches-set-for-members-to-be-vaccinated-against-covid-19/"><div class="thumbnail-container ">
-            <img loading="lazy" width="2000" height="1333" src="https://templatekit.jegtheme.com/coestra/wp-content/uploads/sites/164/2021/09/the-doctor-injects-the-vaccine-to-the-girl.jpg" class="attachment-full size-full wp-post-image" alt="The doctor injects the vaccine to the girl" srcset="https://templatekit.jegtheme.com/coestra/wp-content/uploads/sites/164/2021/09/the-doctor-injects-the-vaccine-to-the-girl.jpg 2000w, https://templatekit.jegtheme.com/coestra/wp-content/uploads/sites/164/2021/09/the-doctor-injects-the-vaccine-to-the-girl-300x200.jpg 300w, https://templatekit.jegtheme.com/coestra/wp-content/uploads/sites/164/2021/09/the-doctor-injects-the-vaccine-to-the-girl-1024x682.jpg 1024w, https://templatekit.jegtheme.com/coestra/wp-content/uploads/sites/164/2021/09/the-doctor-injects-the-vaccine-to-the-girl-768x512.jpg 768w, https://templatekit.jegtheme.com/coestra/wp-content/uploads/sites/164/2021/09/the-doctor-injects-the-vaccine-to-the-girl-1536x1024.jpg 1536w, https://templatekit.jegtheme.com/coestra/wp-content/uploads/sites/164/2021/09/the-doctor-injects-the-vaccine-to-the-girl-800x533.jpg 800w" sizes="(max-width: 2000px) 100vw, 2000px" />
-        </div></a></div>
-                    <div class="jkit-postblock-content"><h3 class="jkit-post-title"><a href="https://templatekit.jegtheme.com/coestra/2021/09/15/us-military-branches-set-for-members-to-be-vaccinated-against-covid-19/">US military branches set for members to be vaccinated against Covid-19</a></h3>
-                <div class="jkit-post-meta"><div class="jkit-meta-date icon-position-before"><i aria-hidden="true" class="fas fa-clock"></i>September 15, 2021</div></div><div class="jkit-post-excerpt"><p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget</p></div>
-            <div class="jkit-post-meta-bottom">
-                <div class="jkit-meta-readmore icon-position-after">
-                <a href="https://templatekit.jegtheme.com/coestra/2021/09/15/us-military-branches-set-for-members-to-be-vaccinated-against-covid-19/" class="jkit-readmore">Read More<i aria-hidden="true" class="jki jki-arrow-right-light"></i></a>
-            </div>
-            </div></div>
-                </article><article class="jkit-post post-451 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-news tag-politic">
-                    <div class="jkit-thumb"><a href="https://templatekit.jegtheme.com/coestra/2021/09/15/democrats-put-tax-hikes-on-fast-track-after-knocking-gops-haste-on-tax-cuts/"><div class="thumbnail-container ">
-            <img width="2000" height="1333" src="https://templatekit.jegtheme.com/coestra/wp-content/uploads/sites/164/2021/09/conference.jpg" class="attachment-full size-full wp-post-image" alt="Conference" loading="lazy" srcset="https://templatekit.jegtheme.com/coestra/wp-content/uploads/sites/164/2021/09/conference.jpg 2000w, https://templatekit.jegtheme.com/coestra/wp-content/uploads/sites/164/2021/09/conference-300x200.jpg 300w, https://templatekit.jegtheme.com/coestra/wp-content/uploads/sites/164/2021/09/conference-1024x682.jpg 1024w, https://templatekit.jegtheme.com/coestra/wp-content/uploads/sites/164/2021/09/conference-768x512.jpg 768w, https://templatekit.jegtheme.com/coestra/wp-content/uploads/sites/164/2021/09/conference-1536x1024.jpg 1536w, https://templatekit.jegtheme.com/coestra/wp-content/uploads/sites/164/2021/09/conference-800x533.jpg 800w" sizes="(max-width: 2000px) 100vw, 2000px" />
-        </div></a></div>
-                    <div class="jkit-postblock-content"><h3 class="jkit-post-title"><a href="https://templatekit.jegtheme.com/coestra/2021/09/15/democrats-put-tax-hikes-on-fast-track-after-knocking-gops-haste-on-tax-cuts/">Democrats put tax hikes on fast track after knocking GOP’s haste on tax cuts</a></h3>
-                <div class="jkit-post-meta"><div class="jkit-meta-date icon-position-before"><i aria-hidden="true" class="fas fa-clock"></i>September 15, 2021</div></div><div class="jkit-post-excerpt"><p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget</p></div>
-            <div class="jkit-post-meta-bottom">
-                <div class="jkit-meta-readmore icon-position-after">
-                <a href="https://templatekit.jegtheme.com/coestra/2021/09/15/democrats-put-tax-hikes-on-fast-track-after-knocking-gops-haste-on-tax-cuts/" class="jkit-readmore">Read More<i aria-hidden="true" class="jki jki-arrow-right-light"></i></a>
-            </div>
-            </div></div>
-                </article><article class="jkit-post post-448 post type-post status-publish format-standard has-post-thumbnail hentry category-politic tag-news tag-politic">
-                    <div class="jkit-thumb"><a href="https://templatekit.jegtheme.com/coestra/2021/09/15/bidens-team-tightens-grip-on-state-use-of-covid-antibody-treatments/"><div class="thumbnail-container ">
-            <img width="2000" height="1333" src="https://templatekit.jegtheme.com/coestra/wp-content/uploads/sites/164/2021/09/politicians.jpg" class="attachment-full size-full wp-post-image" alt="Politicians" loading="lazy" srcset="https://templatekit.jegtheme.com/coestra/wp-content/uploads/sites/164/2021/09/politicians.jpg 2000w, https://templatekit.jegtheme.com/coestra/wp-content/uploads/sites/164/2021/09/politicians-300x200.jpg 300w, https://templatekit.jegtheme.com/coestra/wp-content/uploads/sites/164/2021/09/politicians-1024x682.jpg 1024w, https://templatekit.jegtheme.com/coestra/wp-content/uploads/sites/164/2021/09/politicians-768x512.jpg 768w, https://templatekit.jegtheme.com/coestra/wp-content/uploads/sites/164/2021/09/politicians-1536x1024.jpg 1536w, https://templatekit.jegtheme.com/coestra/wp-content/uploads/sites/164/2021/09/politicians-800x533.jpg 800w" sizes="(max-width: 2000px) 100vw, 2000px" />
-        </div></a></div>
-                    <div class="jkit-postblock-content"><h3 class="jkit-post-title"><a href="https://templatekit.jegtheme.com/coestra/2021/09/15/bidens-team-tightens-grip-on-state-use-of-covid-antibody-treatments/">Biden&#8217;s team tightens grip on state use of Covid antibody treatments</a></h3>
-                <div class="jkit-post-meta"><div class="jkit-meta-date icon-position-before"><i aria-hidden="true" class="fas fa-clock"></i>September 15, 2021</div></div><div class="jkit-post-excerpt"><p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget</p></div>
-            <div class="jkit-post-meta-bottom">
-                <div class="jkit-meta-readmore icon-position-after">
-                <a href="https://templatekit.jegtheme.com/coestra/2021/09/15/bidens-team-tightens-grip-on-state-use-of-covid-antibody-treatments/" class="jkit-readmore">Read More<i aria-hidden="true" class="jki jki-arrow-right-light"></i></a>
-            </div>
-            </div></div>
-                </article><article class="jkit-post post-443 post type-post status-publish format-standard has-post-thumbnail hentry category-politic tag-news tag-politic">
-                    <div class="jkit-thumb"><a href="https://templatekit.jegtheme.com/coestra/2021/09/15/democrats-cut-deal-with-manchin-to-get-party-behind-long-shot-voting/"><div class="thumbnail-container ">
-            <img width="2000" height="1333" src="https://templatekit.jegtheme.com/coestra/wp-content/uploads/sites/164/2021/09/elegant-director.jpg" class="attachment-full size-full wp-post-image" alt="Elegant director" loading="lazy" srcset="https://templatekit.jegtheme.com/coestra/wp-content/uploads/sites/164/2021/09/elegant-director.jpg 2000w, https://templatekit.jegtheme.com/coestra/wp-content/uploads/sites/164/2021/09/elegant-director-300x200.jpg 300w, https://templatekit.jegtheme.com/coestra/wp-content/uploads/sites/164/2021/09/elegant-director-1024x682.jpg 1024w, https://templatekit.jegtheme.com/coestra/wp-content/uploads/sites/164/2021/09/elegant-director-768x512.jpg 768w, https://templatekit.jegtheme.com/coestra/wp-content/uploads/sites/164/2021/09/elegant-director-1536x1024.jpg 1536w, https://templatekit.jegtheme.com/coestra/wp-content/uploads/sites/164/2021/09/elegant-director-800x533.jpg 800w" sizes="(max-width: 2000px) 100vw, 2000px" />
-        </div></a></div>
-                    <div class="jkit-postblock-content"><h3 class="jkit-post-title"><a href="https://templatekit.jegtheme.com/coestra/2021/09/15/democrats-cut-deal-with-manchin-to-get-party-behind-long-shot-voting/">Democrats cut deal with Manchin to get party behind long-shot voting</a></h3>
-                <div class="jkit-post-meta"><div class="jkit-meta-date icon-position-before"><i aria-hidden="true" class="fas fa-clock"></i>September 15, 2021</div></div><div class="jkit-post-excerpt"><p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget</p></div>
-            <div class="jkit-post-meta-bottom">
-                <div class="jkit-meta-readmore icon-position-after">
-                <a href="https://templatekit.jegtheme.com/coestra/2021/09/15/democrats-cut-deal-with-manchin-to-get-party-behind-long-shot-voting/" class="jkit-readmore">Read More<i aria-hidden="true" class="jki jki-arrow-right-light"></i></a>
-            </div>
-            </div></div>
-                </article>
-        </div></div></div>		</div>
+			<h2 class="elementor-heading-title elementor-size-default">Vision & Mission</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-65fca9e elementor-widget elementor-widget-text-editor" data-id="65fca9e" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>						</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-8f887b3 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8f887b3" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-455ef4b" data-id="455ef4b" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-8d33d8a elementor-widget elementor-widget-heading" data-id="8d33d8a" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Vision</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-ca0108c elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="ca0108c" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.6.5 - 27-04-2022 */
+.elementor-widget-divider{--divider-border-style:none;--divider-border-width:1px;--divider-color:#2c2c2c;--divider-icon-size:20px;--divider-element-spacing:10px;--divider-pattern-height:24px;--divider-pattern-size:20px;--divider-pattern-url:none;--divider-pattern-repeat:repeat-x}.elementor-widget-divider .elementor-divider{display:-webkit-box;display:-ms-flexbox;display:flex}.elementor-widget-divider .elementor-divider__text{font-size:15px;line-height:1;max-width:95%}.elementor-widget-divider .elementor-divider__element{margin:0 var(--divider-element-spacing);-ms-flex-negative:0;flex-shrink:0}.elementor-widget-divider .elementor-icon{font-size:var(--divider-icon-size)}.elementor-widget-divider .elementor-divider-separator{display:-webkit-box;display:-ms-flexbox;display:flex;margin:0;direction:ltr}.elementor-widget-divider--view-line_icon .elementor-divider-separator,.elementor-widget-divider--view-line_text .elementor-divider-separator{-webkit-box-align:center;-ms-flex-align:center;align-items:center}.elementor-widget-divider--view-line_icon .elementor-divider-separator:after,.elementor-widget-divider--view-line_icon .elementor-divider-separator:before,.elementor-widget-divider--view-line_text .elementor-divider-separator:after,.elementor-widget-divider--view-line_text .elementor-divider-separator:before{display:block;content:"";border-bottom:0;-webkit-box-flex:1;-ms-flex-positive:1;flex-grow:1;border-top:var(--divider-border-width) var(--divider-border-style) var(--divider-color)}.elementor-widget-divider--element-align-left .elementor-divider .elementor-divider-separator>.elementor-divider__svg:first-of-type{-webkit-box-flex:0;-ms-flex-positive:0;flex-grow:0;-ms-flex-negative:100;flex-shrink:100}.elementor-widget-divider--element-align-left .elementor-divider-separator:before{content:none}.elementor-widget-divider--element-align-left .elementor-divider__element{margin-left:0}.elementor-widget-divider--element-align-right .elementor-divider .elementor-divider-separator>.elementor-divider__svg:last-of-type{-webkit-box-flex:0;-ms-flex-positive:0;flex-grow:0;-ms-flex-negative:100;flex-shrink:100}.elementor-widget-divider--element-align-right .elementor-divider-separator:after{content:none}.elementor-widget-divider--element-align-right .elementor-divider__element{margin-right:0}.elementor-widget-divider:not(.elementor-widget-divider--view-line_text):not(.elementor-widget-divider--view-line_icon) .elementor-divider-separator{border-top:var(--divider-border-width) var(--divider-border-style) var(--divider-color)}.elementor-widget-divider--separator-type-pattern{--divider-border-style:none}.elementor-widget-divider--separator-type-pattern.elementor-widget-divider--view-line .elementor-divider-separator,.elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:after,.elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:before,.elementor-widget-divider--separator-type-pattern:not([class*=elementor-widget-divider--view]) .elementor-divider-separator{width:100%;min-height:var(--divider-pattern-height);-webkit-mask-size:var(--divider-pattern-size) 100%;mask-size:var(--divider-pattern-size) 100%;-webkit-mask-repeat:var(--divider-pattern-repeat);mask-repeat:var(--divider-pattern-repeat);background-color:var(--divider-color);-webkit-mask-image:var(--divider-pattern-url);mask-image:var(--divider-pattern-url)}.elementor-widget-divider--no-spacing{--divider-pattern-size:auto}.elementor-widget-divider--bg-round{--divider-pattern-repeat:round}.rtl .elementor-widget-divider .elementor-divider__text{direction:rtl}</style>		<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-942b1cb elementor-widget elementor-widget-text-editor" data-id="942b1cb" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur.						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-c20bc09" data-id="c20bc09" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-f1f1262 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f1f1262" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-e67bc39" data-id="e67bc39" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-813b7f2 elementor-widget elementor-widget-heading" data-id="813b7f2" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Mission</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-5bbe2d4 elementor-position-left elementor-view-default elementor-mobile-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="5bbe2d4" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="https://templatekit.jegtheme.com/coestra/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css">		<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<span class="elementor-icon elementor-animation-" >
+				<i aria-hidden="true" class="jki jki-minus-solid"></i>				</span>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h3 class="elementor-icon-box-title">
+					<span  >
+						Support All The Young Academy & Sport					</span>
+				</h3>
+									<p class="elementor-icon-box-description">
+						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar.					</p>
+							</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-eec58dc elementor-position-left elementor-view-default elementor-mobile-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="eec58dc" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<span class="elementor-icon elementor-animation-" >
+				<i aria-hidden="true" class="jki jki-minus-solid"></i>				</span>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h3 class="elementor-icon-box-title">
+					<span  >
+						Covering & Helping Public Justice Law					</span>
+				</h3>
+									<p class="elementor-icon-box-description">
+						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar.					</p>
+							</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-07bf9fd elementor-position-left elementor-view-default elementor-mobile-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="07bf9fd" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<span class="elementor-icon elementor-animation-" >
+				<i aria-hidden="true" class="jki jki-minus-solid"></i>				</span>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h3 class="elementor-icon-box-title">
+					<span  >
+						Helping Public Social & Economy					</span>
+				</h3>
+									<p class="elementor-icon-box-description">
+						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar.					</p>
+							</div>
+		</div>
+				</div>
 				</div>
 					</div>
 		</div>
@@ -60,211 +108,96 @@
 		</div>
 							</div>
 		</section>
-							</div>
-		
-		<footer itemtype="https://schema.org/WPFooter" itemscope="itemscope" id="colophon" role="contentinfo">
-			<div class='footer-width-fixer'>		<div data-elementor-type="wp-post" data-elementor-id="559" class="elementor elementor-559">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-544c223 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="544c223" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-11fe0dc elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="11fe0dc" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 							<div class="elementor-background-overlay"></div>
 							<div class="elementor-container elementor-column-gap-no">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-592c81f" data-id="592c81f" data-element_type="column">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-c1d26c3" data-id="c1d26c3" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<section class="elementor-section elementor-inner-section elementor-element elementor-element-9ffacb2 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9ffacb2" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-						<div class="elementor-container elementor-column-gap-no">
-					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-439dab0" data-id="439dab0" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-9e72d48 elementor-widget elementor-widget-heading" data-id="9e72d48" data-element_type="widget" data-widget_type="heading.default">
+								<div class="elementor-element elementor-element-7495eb4 elementor-widget elementor-widget-heading" data-id="7495eb4" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">Join Our Newsletter
-</h3>		</div>
+			<h2 class="elementor-heading-title elementor-size-default">Our Main Attention</h2>		</div>
 				</div>
-				<div class="elementor-element elementor-element-e59c047 elementor-widget elementor-widget-text-editor" data-id="e59c047" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-element elementor-element-d8672a6 elementor-widget elementor-widget-text-editor" data-id="d8672a6" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore						</div>
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>						</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-2bba441 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2bba441" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-7323c39" data-id="7323c39" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-15eb4a1 jkit-equal-height-disable elementor-widget elementor-widget-jkit_icon_box" data-id="15eb4a1" data-element_type="widget" data-widget_type="jkit_icon_box.default">
+				<div class="elementor-widget-container">
+			<div  class="jeg-elementor-kit jkit-icon-box icon-position-top elementor-animation- jeg_module_6_5_62a821fc4b709" ><div class="jkit-icon-box-wrapper hover-from-left"><div class="icon-box icon-box-header elementor-animation-"><div class="icon style-color"><i aria-hidden="true" class="jki jki-open-book1-light"></i></div></div><div class="icon-box icon-box-body">
+                <h2 class="title">Education</h2><p class="icon-box-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut.</p>
+            </div>
+            
+            </div></div>		</div>
 				</div>
 					</div>
 		</div>
-				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-295daca" data-id="295daca" data-element_type="column">
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-e27d877" data-id="e27d877" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-e7e6405 elementor-widget elementor-widget-jkit_mailchimp" data-id="e7e6405" data-element_type="widget" data-widget_type="jkit_mailchimp.default">
+								<div class="elementor-element elementor-element-ecf4be2 jkit-equal-height-disable elementor-widget elementor-widget-jkit_icon_box" data-id="ecf4be2" data-element_type="widget" data-widget_type="jkit_icon_box.default">
 				<div class="elementor-widget-container">
-			<div  class="jeg-elementor-kit jkit-mailchimp style-inline jeg_module_6_14_62a821fc8f5c4" ><form method="post" class="jkit-mailchimp-form" data-listed="" data-success-message="Successfully listed this email" data-error-message="Something went wrong">
-            <div class="jkit-mailchimp-message"></div>
-            <div class="jkit-form-wrapper email-form">
-                <div class="jkit-mailchimp-email jkit-input-wrapper input-container">
-            <div class="jkit-form-group">
-                <div class="jkit-input-element-container jkit-input-group">
-                    <input type="email" name="email" class="jkit-email jkit-form-control " placeholder="Enter Your Email Address" required="">
-                </div>
+			<div  class="jeg-elementor-kit jkit-icon-box icon-position-top elementor-animation- jeg_module_6_6_62a821fc4e2b4" ><div class="jkit-icon-box-wrapper hover-from-left"><div class="icon-box icon-box-header elementor-animation-"><div class="icon style-color"><i aria-hidden="true" class="jki jki-justice-light"></i></div></div><div class="icon-box icon-box-body">
+                <h2 class="title">Social &amp; Law</h2><p class="icon-box-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut.</p>
             </div>
-        </div><div class="jkit-submit-input-holder jkit-input-wrapper">
-            <button type="submit" class="jkit-mailchimp-submit position-before" name="jkit-mailchimp">
-                Subscribe
-            </button>
-        </div>
+            
+            </div></div>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-6d65e5f" data-id="6d65e5f" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-5c15ae3 jkit-equal-height-disable elementor-widget elementor-widget-jkit_icon_box" data-id="5c15ae3" data-element_type="widget" data-widget_type="jkit_icon_box.default">
+				<div class="elementor-widget-container">
+			<div  class="jeg-elementor-kit jkit-icon-box icon-position-top elementor-animation- jeg_module_6_7_62a821fc503e8" ><div class="jkit-icon-box-wrapper hover-from-left"><div class="icon-box icon-box-header elementor-animation-"><div class="icon style-color"><i aria-hidden="true" class="jki jki-Money-2-light"></i></div></div><div class="icon-box icon-box-body">
+                <h2 class="title">Economy</h2><p class="icon-box-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut.</p>
             </div>
-        </form></div>		</div>
+            
+            </div></div>		</div>
 				</div>
 					</div>
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-598fa92 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="598fa92" data-element_type="section">
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-4659af8 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4659af8" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-no">
-					<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-7a32398" data-id="7a32398" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-360dcfe" data-id="360dcfe" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-6fb9329 elementor-widget elementor-widget-image" data-id="6fb9329" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-															<img width="621" height="124" src="https://templatekit.jegtheme.com/coestra/wp-content/uploads/sites/164/2021/09/logo-red2.png" class="attachment-full size-full" alt="" loading="lazy" srcset="https://templatekit.jegtheme.com/coestra/wp-content/uploads/sites/164/2021/09/logo-red2.png 621w, https://templatekit.jegtheme.com/coestra/wp-content/uploads/sites/164/2021/09/logo-red2-300x60.png 300w" sizes="(max-width: 621px) 100vw, 621px" />															</div>
-				</div>
-				<div class="elementor-element elementor-element-1720e80 elementor-widget elementor-widget-text-editor" data-id="1720e80" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							Lorem ipsum dolor sit amet, consectet adipiscing elit, sed do eiusmod tempor.						</div>
-				</div>
-				<div class="elementor-element elementor-element-04cc54f elementor-shape-square e-grid-align-left e-grid-align-tablet-left elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="04cc54f" data-element_type="widget" data-widget_type="social-icons.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-social-icons-wrapper elementor-grid">
-							<span class="elementor-grid-item">
-					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-animation-shrink elementor-repeater-item-c0163ab" target="_blank">
-						<span class="elementor-screen-only">Facebook-f</span>
-						<i class="fab fa-facebook-f"></i>					</a>
-				</span>
-							<span class="elementor-grid-item">
-					<a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-animation-shrink elementor-repeater-item-310ab07" target="_blank">
-						<span class="elementor-screen-only">Twitter</span>
-						<i class="fab fa-twitter"></i>					</a>
-				</span>
-							<span class="elementor-grid-item">
-					<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-animation-shrink elementor-repeater-item-63f86db" target="_blank">
-						<span class="elementor-screen-only">Instagram</span>
-						<i class="fab fa-instagram"></i>					</a>
-				</span>
-							<span class="elementor-grid-item">
-					<a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-animation-shrink elementor-repeater-item-d54d883" target="_blank">
-						<span class="elementor-screen-only">Youtube</span>
-						<i class="fab fa-youtube"></i>					</a>
-				</span>
-					</div>
-				</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-782ca6d" data-id="782ca6d" data-element_type="column">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-ec4b0bd elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ec4b0bd" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-713f4d4" data-id="713f4d4" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-e11f693 elementor-widget elementor-widget-heading" data-id="e11f693" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h4 class="elementor-heading-title elementor-size-default">Quick Links</h4>		</div>
-				</div>
-				<div class="elementor-element elementor-element-4084cbb elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="4084cbb" data-element_type="widget" data-widget_type="divider.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-divider">
-			<span class="elementor-divider-separator">
-						</span>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-5b26d3f elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="5b26d3f" data-element_type="widget" data-widget_type="icon-list.default">
+								<div class="elementor-element elementor-element-3e97637 elementor-widget__width-auto elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="3e97637" data-element_type="widget" data-widget_type="icon-list.default">
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-											<a href="#">
-
-											<span class="elementor-icon-list-text">About Us</span>
-											</a>
-									</li>
-								<li class="elementor-icon-list-item">
-											<a href="#">
-
-											<span class="elementor-icon-list-text">Services</span>
-											</a>
-									</li>
-								<li class="elementor-icon-list-item">
-											<a href="#">
-
-											<span class="elementor-icon-list-text">Contact</span>
-											</a>
-									</li>
-								<li class="elementor-icon-list-item">
-											<a href="#">
-
-											<span class="elementor-icon-list-text">News</span>
-											</a>
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-flag"></i>						</span>
+										<span class="elementor-icon-list-text">Our Event</span>
 									</li>
 						</ul>
 				</div>
 				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-71b886d" data-id="71b886d" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-441abed elementor-widget elementor-widget-heading" data-id="441abed" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-element elementor-element-45fd145 elementor-widget elementor-widget-heading" data-id="45fd145" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h4 class="elementor-heading-title elementor-size-default">Useful Links</h4>		</div>
-				</div>
-				<div class="elementor-element elementor-element-64f02aa elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="64f02aa" data-element_type="widget" data-widget_type="divider.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-divider">
-			<span class="elementor-divider-separator">
-						</span>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-9b17337 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="9b17337" data-element_type="widget" data-widget_type="icon-list.default">
-				<div class="elementor-widget-container">
-					<ul class="elementor-icon-list-items">
-							<li class="elementor-icon-list-item">
-											<a href="#">
-
-											<span class="elementor-icon-list-text">Privacy Policy</span>
-											</a>
-									</li>
-								<li class="elementor-icon-list-item">
-											<a href="#">
-
-											<span class="elementor-icon-list-text">Terms and Conditions</span>
-											</a>
-									</li>
-								<li class="elementor-icon-list-item">
-											<a href="#">
-
-											<span class="elementor-icon-list-text">Support</span>
-											</a>
-									</li>
-								<li class="elementor-icon-list-item">
-											<a href="#">
-
-											<span class="elementor-icon-list-text">FAQ</span>
-											</a>
-									</li>
-						</ul>
-				</div>
+			<h2 class="elementor-heading-title elementor-size-default">Political EVent</h2>		</div>
 				</div>
 					</div>
 		</div>
-				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-4a69bf6" data-id="4a69bf6" data-element_type="column">
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-b8cbd4f" data-id="b8cbd4f" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-591b511 elementor-widget elementor-widget-heading" data-id="591b511" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Work Hours</h2>		</div>
-				</div>
-				<div class="elementor-element elementor-element-110b940 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="110b940" data-element_type="widget" data-widget_type="divider.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-divider">
-			<span class="elementor-divider-separator">
-						</span>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-bdccd3e elementor-widget elementor-widget-text-editor" data-id="bdccd3e" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							Lorem ipsum dolor sit amet, consecte adipiscing elit, sed do eiusmod						</div>
-				</div>
-				<div class="elementor-element elementor-element-a459a21 elementor-align-left elementor-widget elementor-widget-button" data-id="a459a21" data-element_type="widget" data-widget_type="button.default">
+								<div class="elementor-element elementor-element-fd374c6 elementor-align-right elementor-mobile-align-left elementor-widget elementor-widget-button" data-id="fd374c6" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
 			<a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">Contact Us Now</span>
+						<span class="elementor-button-text">View More</span>
 		</span>
 					</a>
 		</div>
@@ -274,22 +207,101 @@
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-31334e5 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="31334e5" data-element_type="section">
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-131b601 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="131b601" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-no">
-					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-5c6a319" data-id="5c6a319" data-element_type="column">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-46efb76" data-id="46efb76" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-c7e8f55 elementor-widget elementor-widget-text-editor" data-id="c7e8f55" data-element_type="widget" data-widget_type="text-editor.default">
+					<div class="elementor-background-overlay"></div>
+								<div class="elementor-element elementor-element-438c94b elementor-widget elementor-widget-spacer" data-id="438c94b" data-element_type="widget" data-widget_type="spacer.default">
 				<div class="elementor-widget-container">
-							Political Party Template Kit by Jegtheme						</div>
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-9ee30d7 elementor-widget elementor-widget-heading" data-id="9ee30d7" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Stand for Justice</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-1a457ac elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="1a457ac" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-map-marker-alt"></i>						</span>
+										<span class="elementor-icon-list-text">Gedung Pemuda, Denpasar Utara.</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-clock"></i>						</span>
+										<span class="elementor-icon-list-text">Wed, 15 Sep 2021</span>
+									</li>
+						</ul>
+				</div>
 				</div>
 					</div>
 		</div>
-				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-0ddb312" data-id="0ddb312" data-element_type="column">
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-8c9e7cc" data-id="8c9e7cc" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-1cf2dba elementor-widget elementor-widget-text-editor" data-id="1cf2dba" data-element_type="widget" data-widget_type="text-editor.default">
+					<div class="elementor-background-overlay"></div>
+								<div class="elementor-element elementor-element-b222793 elementor-widget elementor-widget-spacer" data-id="b222793" data-element_type="widget" data-widget_type="spacer.default">
 				<div class="elementor-widget-container">
-							Copyright © 2021. All rights reserved.
-						</div>
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-4ba49ae elementor-widget elementor-widget-heading" data-id="4ba49ae" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">World Economic</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-9fb70a1 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="9fb70a1" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-map-marker-alt"></i>						</span>
+										<span class="elementor-icon-list-text">Lapangan Gajah Mada, Badung.</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-clock"></i>						</span>
+										<span class="elementor-icon-list-text">Wed, 2 Oct 2021</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-fc8b1bd" data-id="fc8b1bd" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+					<div class="elementor-background-overlay"></div>
+								<div class="elementor-element elementor-element-61e70e0 elementor-widget elementor-widget-spacer" data-id="61e70e0" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-6c0371e elementor-widget elementor-widget-heading" data-id="6c0371e" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Senior Charity</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-4ae09bf elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="4ae09bf" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-map-marker-alt"></i>						</span>
+										<span class="elementor-icon-list-text">Lapangan Renon, Denpasar.</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-clock"></i>						</span>
+										<span class="elementor-icon-list-text">Wed, 18 Oct 2021</span>
+									</li>
+						</ul>
+				</div>
 				</div>
 					</div>
 		</div>
@@ -299,42 +311,219 @@
 		</div>
 							</div>
 		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-aea489b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="aea489b" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-04068cf" data-id="04068cf" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-5425ff6 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5425ff6" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-7af3664" data-id="7af3664" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-da71ed8 elementor-widget__width-auto elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="da71ed8" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-flag"></i>						</span>
+										<span class="elementor-icon-list-text">Our Gallery</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-efba6e4 elementor-widget elementor-widget-heading" data-id="efba6e4" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Political Gallery</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-07ef8ca elementor-widget elementor-widget-text-editor" data-id="07ef8ca" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.						</div>
+				</div>
+					</div>
+		</div>
 							</div>
-		</div>		</footer>
-	</div><!-- #page -->
-<link rel='stylesheet' id='magnific-popup-css'  href='https://templatekit.jegtheme.com/coestra/wp-content/plugins/jeg-elementor-kit/assets/js/magnific-popup/magnific-popup.css?ver=1.1.0' type='text/css' media='all' />
-<link rel='stylesheet' id='e-animations-css'  href='https://templatekit.jegtheme.com/coestra/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.6.5' type='text/css' media='all' />
-<script type='text/javascript' src='https://templatekit.jegtheme.com/coestra/wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js?ver=1.0.0' id='hello-theme-frontend-js'></script>
-<script type='text/javascript' src='https://templatekit.jegtheme.com/coestra/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.6.5' id='elementor-webpack-runtime-js'></script>
-<script type='text/javascript' src='https://templatekit.jegtheme.com/coestra/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.6.5' id='elementor-frontend-modules-js'></script>
-<script type='text/javascript' src='https://templatekit.jegtheme.com/coestra/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2' id='elementor-waypoints-js'></script>
-<script type='text/javascript' src='https://templatekit.jegtheme.com/coestra/wp-includes/js/jquery/ui/core.min.js?ver=1.13.1' id='jquery-ui-core-js'></script>
-<script type='text/javascript' id='elementor-frontend-js-before'>
-var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Extra","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Extra","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.6.5","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"a11y_improvements":true,"e_import_export":true,"additional_custom_breakpoints":true,"e_hidden_wordpress_widgets":true,"hello-theme-header-footer":true,"landing-pages":true,"elements-color-picker":true,"favorite-widgets":true,"admin-top-bar":true},"urls":{"assets":"https:\/\/templatekit.jegtheme.com\/coestra\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","hello_header_logo_type":"title","hello_header_menu_layout":"horizontal","hello_footer_logo_type":"logo"},"post":{"id":6,"title":"Coestra%20%E2%80%93%20Just%20another%20Template%20Kits%20by%20Jegtheme%20site","excerpt":"","featuredImage":false}};
-</script>
-<script type='text/javascript' src='https://templatekit.jegtheme.com/coestra/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.6.5' id='elementor-frontend-js'></script>
-<script type='text/javascript' id='elementor-frontend-js-after'>
-var jkit_ajax_url = "https://templatekit.jegtheme.com/coestra/?jkit-ajax-request=jkit_elements", jkit_nonce = "85399b7950";
-</script>
-<script type='text/javascript' src='https://templatekit.jegtheme.com/coestra/wp-content/plugins/jeg-elementor-kit/assets/js/elements/sticky-element.js?ver=2.4.3-dev-2' id='jkit-sticky-element-js'></script>
-<script type='text/javascript' src='https://templatekit.jegtheme.com/coestra/wp-content/plugins/jeg-elementor-kit/assets/js/elements/nav-menu.js?ver=2.4.3-dev-2' id='jkit-element-navmenu-js'></script>
-<script type='text/javascript' src='https://templatekit.jegtheme.com/coestra/wp-content/plugins/jeg-elementor-kit/assets/js/elements/video-button.js?ver=2.4.3-dev-2' id='jkit-element-videobutton-js'></script>
-<script type='text/javascript' src='https://templatekit.jegtheme.com/coestra/wp-content/plugins/jeg-elementor-kit/assets/js/magnific-popup/jquery.magnific-popup.min.js?ver=1.1.0' id='magnific-popup-js'></script>
-<script type='text/javascript' src='https://templatekit.jegtheme.com/coestra/wp-content/plugins/jeg-elementor-kit/assets/js/elements/gallery.js?ver=2.4.3-dev-2' id='jkit-element-gallery-js'></script>
-<script type='text/javascript' src='https://templatekit.jegtheme.com/coestra/wp-includes/js/imagesloaded.min.js?ver=4.1.4' id='imagesloaded-js'></script>
-<script type='text/javascript' src='https://templatekit.jegtheme.com/coestra/wp-content/plugins/jeg-elementor-kit/assets/js/isotope/isotope.min.js?ver=3.0.6' id='isotope-js'></script>
-<script type='text/javascript' src='https://templatekit.jegtheme.com/coestra/wp-content/plugins/jeg-elementor-kit/assets/js/elements/fun-fact.js?ver=2.4.3-dev-2' id='jkit-element-funfact-js'></script>
-<script type='text/javascript' id='jkit-element-pagination-js-extra'>
-/* <![CDATA[ */
-var jkit_element_pagination_option = {"element_prefix":"jkit_element_ajax_"};
-/* ]]> */
-</script>
-<script type='text/javascript' src='https://templatekit.jegtheme.com/coestra/wp-content/plugins/jeg-elementor-kit/assets/js/elements/post-pagination.js?ver=2.4.3-dev-2' id='jkit-element-pagination-js'></script>
-<script type='text/javascript' src='https://templatekit.jegtheme.com/coestra/wp-content/plugins/jeg-elementor-kit/assets/js/elements/mailchimp.js?ver=2.4.3-dev-2' id='jkit-element-mailchimp-js'></script>
-</body>
-</html> 
+		</section>
+				<div class="elementor-element elementor-element-ead1b2e elementor-widget elementor-widget-jkit_gallery" data-id="ead1b2e" data-element_type="widget" data-widget_type="jkit_gallery.default">
+				<div class="elementor-widget-container">
+			<div  class="jeg-elementor-kit jkit-gallery layout-overlay jeg_module_6_8_62a821fc64a67"  data-grid="grid" data-id="jeg_module_6_8_62a821fc64a67" data-per-page="6" data-load-more="0" data-current-loaded="6" data-count-items="6" data-animation-duration="500" data-no-more="No More Item" data-items="[&quot;&lt;div class=\&quot;gallery-item-wrap \&quot;&gt; &lt;div class=\&quot;grid-item\&quot;&gt;&lt;div class=\&quot;thumbnail-wrap\&quot;&gt;&lt;img src=\&quot;https:\/\/templatekit.jegtheme.com\/coestra\/wp-content\/uploads\/sites\/164\/2021\/09\/press-conference-with-political-leaders-1024x682.jpg\&quot; &gt;&lt;\/div&gt;&lt;a href=\&quot;https:\/\/templatekit.jegtheme.com\/coestra\/wp-content\/uploads\/sites\/164\/2021\/09\/press-conference-with-political-leaders.jpg\&quot; class=\&quot;gallery-link\&quot;data-elementor-open-lightbox=\&quot;yes\&quot; data-elementor-lightbox-slideshow=\&quot;jkit_gallery_lightbox_jeg_module_6_8_62a821fc64a67\&quot; &gt;&lt;div class=\&quot;caption-wrap style-overlay overlay-overlay\&quot;&gt; &lt;div class=\&quot;item-hover-bg\&quot;&gt;&lt;\/div&gt; &lt;div class=\&quot;item-caption-over\&quot;&gt; &lt;h5 class=\&quot;item-title\&quot;&gt;&lt;\/h5&gt; &lt;div class=\&quot;item-content\&quot;&gt;&lt;\/div&gt; &lt;\/div&gt; &lt;div class=\&quot;caption-head\&quot;&gt;&lt;\/div&gt; &lt;div class=\&quot;caption-category\&quot;&gt;&lt;\/div&gt; &lt;\/div&gt;&lt;\/a&gt;&lt;\/div&gt; &lt;\/div&gt;&quot;,&quot;&lt;div class=\&quot;gallery-item-wrap \&quot;&gt; &lt;div class=\&quot;grid-item\&quot;&gt;&lt;div class=\&quot;thumbnail-wrap\&quot;&gt;&lt;img src=\&quot;https:\/\/templatekit.jegtheme.com\/coestra\/wp-content\/uploads\/sites\/164\/2021\/09\/political-interview-1024x682.jpg\&quot; &gt;&lt;\/div&gt;&lt;a href=\&quot;https:\/\/templatekit.jegtheme.com\/coestra\/wp-content\/uploads\/sites\/164\/2021\/09\/political-interview.jpg\&quot; class=\&quot;gallery-link\&quot;data-elementor-open-lightbox=\&quot;yes\&quot; data-elementor-lightbox-slideshow=\&quot;jkit_gallery_lightbox_jeg_module_6_8_62a821fc64a67\&quot; &gt;&lt;div class=\&quot;caption-wrap style-overlay overlay-overlay\&quot;&gt; &lt;div class=\&quot;item-hover-bg\&quot;&gt;&lt;\/div&gt; &lt;div class=\&quot;item-caption-over\&quot;&gt; &lt;h5 class=\&quot;item-title\&quot;&gt;&lt;\/h5&gt; &lt;div class=\&quot;item-content\&quot;&gt;&lt;\/div&gt; &lt;\/div&gt; &lt;div class=\&quot;caption-head\&quot;&gt;&lt;\/div&gt; &lt;div class=\&quot;caption-category\&quot;&gt;&lt;\/div&gt; &lt;\/div&gt;&lt;\/a&gt;&lt;\/div&gt; &lt;\/div&gt;&quot;,&quot;&lt;div class=\&quot;gallery-item-wrap \&quot;&gt; &lt;div class=\&quot;grid-item\&quot;&gt;&lt;div class=\&quot;thumbnail-wrap\&quot;&gt;&lt;img src=\&quot;https:\/\/templatekit.jegtheme.com\/coestra\/wp-content\/uploads\/sites\/164\/2021\/09\/official-political-event-1024x682.jpg\&quot; &gt;&lt;\/div&gt;&lt;a href=\&quot;https:\/\/templatekit.jegtheme.com\/coestra\/wp-content\/uploads\/sites\/164\/2021\/09\/official-political-event.jpg\&quot; class=\&quot;gallery-link\&quot;data-elementor-open-lightbox=\&quot;yes\&quot; data-elementor-lightbox-slideshow=\&quot;jkit_gallery_lightbox_jeg_module_6_8_62a821fc64a67\&quot; &gt;&lt;div class=\&quot;caption-wrap style-overlay overlay-overlay\&quot;&gt; &lt;div class=\&quot;item-hover-bg\&quot;&gt;&lt;\/div&gt; &lt;div class=\&quot;item-caption-over\&quot;&gt; &lt;h5 class=\&quot;item-title\&quot;&gt;&lt;\/h5&gt; &lt;div class=\&quot;item-content\&quot;&gt;&lt;\/div&gt; &lt;\/div&gt; &lt;div class=\&quot;caption-head\&quot;&gt;&lt;\/div&gt; &lt;div class=\&quot;caption-category\&quot;&gt;&lt;\/div&gt; &lt;\/div&gt;&lt;\/a&gt;&lt;\/div&gt; &lt;\/div&gt;&quot;,&quot;&lt;div class=\&quot;gallery-item-wrap \&quot;&gt; &lt;div class=\&quot;grid-item\&quot;&gt;&lt;div class=\&quot;thumbnail-wrap\&quot;&gt;&lt;img src=\&quot;https:\/\/templatekit.jegtheme.com\/coestra\/wp-content\/uploads\/sites\/164\/2021\/09\/group-of-volunteers-working-in-community-charity-donation-center-1024x682.jpg\&quot; &gt;&lt;\/div&gt;&lt;a href=\&quot;https:\/\/templatekit.jegtheme.com\/coestra\/wp-content\/uploads\/sites\/164\/2021\/09\/group-of-volunteers-working-in-community-charity-donation-center.jpg\&quot; class=\&quot;gallery-link\&quot;data-elementor-open-lightbox=\&quot;yes\&quot; data-elementor-lightbox-slideshow=\&quot;jkit_gallery_lightbox_jeg_module_6_8_62a821fc64a67\&quot; &gt;&lt;div class=\&quot;caption-wrap style-overlay overlay-overlay\&quot;&gt; &lt;div class=\&quot;item-hover-bg\&quot;&gt;&lt;\/div&gt; &lt;div class=\&quot;item-caption-over\&quot;&gt; &lt;h5 class=\&quot;item-title\&quot;&gt;&lt;\/h5&gt; &lt;div class=\&quot;item-content\&quot;&gt;&lt;\/div&gt; &lt;\/div&gt; &lt;div class=\&quot;caption-head\&quot;&gt;&lt;\/div&gt; &lt;div class=\&quot;caption-category\&quot;&gt;&lt;\/div&gt; &lt;\/div&gt;&lt;\/a&gt;&lt;\/div&gt; &lt;\/div&gt;&quot;,&quot;&lt;div class=\&quot;gallery-item-wrap \&quot;&gt; &lt;div class=\&quot;grid-item\&quot;&gt;&lt;div class=\&quot;thumbnail-wrap\&quot;&gt;&lt;img src=\&quot;https:\/\/templatekit.jegtheme.com\/coestra\/wp-content\/uploads\/sites\/164\/2021\/09\/economists-at-conference-1024x682.jpg\&quot; &gt;&lt;\/div&gt;&lt;a href=\&quot;https:\/\/templatekit.jegtheme.com\/coestra\/wp-content\/uploads\/sites\/164\/2021\/09\/economists-at-conference.jpg\&quot; class=\&quot;gallery-link\&quot;data-elementor-open-lightbox=\&quot;yes\&quot; data-elementor-lightbox-slideshow=\&quot;jkit_gallery_lightbox_jeg_module_6_8_62a821fc64a67\&quot; &gt;&lt;div class=\&quot;caption-wrap style-overlay overlay-overlay\&quot;&gt; &lt;div class=\&quot;item-hover-bg\&quot;&gt;&lt;\/div&gt; &lt;div class=\&quot;item-caption-over\&quot;&gt; &lt;h5 class=\&quot;item-title\&quot;&gt;&lt;\/h5&gt; &lt;div class=\&quot;item-content\&quot;&gt;&lt;\/div&gt; &lt;\/div&gt; &lt;div class=\&quot;caption-head\&quot;&gt;&lt;\/div&gt; &lt;div class=\&quot;caption-category\&quot;&gt;&lt;\/div&gt; &lt;\/div&gt;&lt;\/a&gt;&lt;\/div&gt; &lt;\/div&gt;&quot;,&quot;&lt;div class=\&quot;gallery-item-wrap \&quot;&gt; &lt;div class=\&quot;grid-item\&quot;&gt;&lt;div class=\&quot;thumbnail-wrap\&quot;&gt;&lt;img src=\&quot;https:\/\/templatekit.jegtheme.com\/coestra\/wp-content\/uploads\/sites\/164\/2021\/09\/report-of-female-politician-1024x682.jpg\&quot; &gt;&lt;\/div&gt;&lt;a href=\&quot;https:\/\/templatekit.jegtheme.com\/coestra\/wp-content\/uploads\/sites\/164\/2021\/09\/report-of-female-politician.jpg\&quot; class=\&quot;gallery-link\&quot;data-elementor-open-lightbox=\&quot;yes\&quot; data-elementor-lightbox-slideshow=\&quot;jkit_gallery_lightbox_jeg_module_6_8_62a821fc64a67\&quot; &gt;&lt;div class=\&quot;caption-wrap style-overlay overlay-overlay\&quot;&gt; &lt;div class=\&quot;item-hover-bg\&quot;&gt;&lt;\/div&gt; &lt;div class=\&quot;item-caption-over\&quot;&gt; &lt;h5 class=\&quot;item-title\&quot;&gt;&lt;\/h5&gt; &lt;div class=\&quot;item-content\&quot;&gt;&lt;\/div&gt; &lt;\/div&gt; &lt;div class=\&quot;caption-head\&quot;&gt;&lt;\/div&gt; &lt;div class=\&quot;caption-category\&quot;&gt;&lt;\/div&gt; &lt;\/div&gt;&lt;\/a&gt;&lt;\/div&gt; &lt;\/div&gt;&quot;]">
+            <div class="gallery-items"><div class="gallery-item-wrap "> <div class="grid-item"><div class="thumbnail-wrap"><img src="https://templatekit.jegtheme.com/coestra/wp-content/uploads/sites/164/2021/09/press-conference-with-political-leaders-1024x682.jpg" ></div><a href="https://templatekit.jegtheme.com/coestra/wp-content/uploads/sites/164/2021/09/press-conference-with-political-leaders.jpg" class="gallery-link"data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="jkit_gallery_lightbox_jeg_module_6_8_62a821fc64a67" ><div class="caption-wrap style-overlay overlay-overlay"> <div class="item-hover-bg"></div> <div class="item-caption-over"> <h5 class="item-title"></h5> <div class="item-content"></div> </div> <div class="caption-head"></div> <div class="caption-category"></div> </div></a></div> </div><div class="gallery-item-wrap "> <div class="grid-item"><div class="thumbnail-wrap"><img src="https://templatekit.jegtheme.com/coestra/wp-content/uploads/sites/164/2021/09/political-interview-1024x682.jpg" ></div><a href="https://templatekit.jegtheme.com/coestra/wp-content/uploads/sites/164/2021/09/political-interview.jpg" class="gallery-link"data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="jkit_gallery_lightbox_jeg_module_6_8_62a821fc64a67" ><div class="caption-wrap style-overlay overlay-overlay"> <div class="item-hover-bg"></div> <div class="item-caption-over"> <h5 class="item-title"></h5> <div class="item-content"></div> </div> <div class="caption-head"></div> <div class="caption-category"></div> </div></a></div> </div><div class="gallery-item-wrap "> <div class="grid-item"><div class="thumbnail-wrap"><img src="https://templatekit.jegtheme.com/coestra/wp-content/uploads/sites/164/2021/09/official-political-event-1024x682.jpg" ></div><a href="https://templatekit.jegtheme.com/coestra/wp-content/uploads/sites/164/2021/09/official-political-event.jpg" class="gallery-link"data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="jkit_gallery_lightbox_jeg_module_6_8_62a821fc64a67" ><div class="caption-wrap style-overlay overlay-overlay"> <div class="item-hover-bg"></div> <div class="item-caption-over"> <h5 class="item-title"></h5> <div class="item-content"></div> </div> <div class="caption-head"></div> <div class="caption-category"></div> </div></a></div> </div><div class="gallery-item-wrap "> <div class="grid-item"><div class="thumbnail-wrap"><img src="https://templatekit.jegtheme.com/coestra/wp-content/uploads/sites/164/2021/09/group-of-volunteers-working-in-community-charity-donation-center-1024x682.jpg" ></div><a href="https://templatekit.jegtheme.com/coestra/wp-content/uploads/sites/164/2021/09/group-of-volunteers-working-in-community-charity-donation-center.jpg" class="gallery-link"data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="jkit_gallery_lightbox_jeg_module_6_8_62a821fc64a67" ><div class="caption-wrap style-overlay overlay-overlay"> <div class="item-hover-bg"></div> <div class="item-caption-over"> <h5 class="item-title"></h5> <div class="item-content"></div> </div> <div class="caption-head"></div> <div class="caption-category"></div> </div></a></div> </div><div class="gallery-item-wrap "> <div class="grid-item"><div class="thumbnail-wrap"><img src="https://templatekit.jegtheme.com/coestra/wp-content/uploads/sites/164/2021/09/economists-at-conference-1024x682.jpg" ></div><a href="https://templatekit.jegtheme.com/coestra/wp-content/uploads/sites/164/2021/09/economists-at-conference.jpg" class="gallery-link"data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="jkit_gallery_lightbox_jeg_module_6_8_62a821fc64a67" ><div class="caption-wrap style-overlay overlay-overlay"> <div class="item-hover-bg"></div> <div class="item-caption-over"> <h5 class="item-title"></h5> <div class="item-content"></div> </div> <div class="caption-head"></div> <div class="caption-category"></div> </div></a></div> </div><div class="gallery-item-wrap "> <div class="grid-item"><div class="thumbnail-wrap"><img src="https://templatekit.jegtheme.com/coestra/wp-content/uploads/sites/164/2021/09/report-of-female-politician-1024x682.jpg" ></div><a href="https://templatekit.jegtheme.com/coestra/wp-content/uploads/sites/164/2021/09/report-of-female-politician.jpg" class="gallery-link"data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="jkit_gallery_lightbox_jeg_module_6_8_62a821fc64a67" ><div class="caption-wrap style-overlay overlay-overlay"> <div class="item-hover-bg"></div> <div class="item-caption-over"> <h5 class="item-title"></h5> <div class="item-content"></div> </div> <div class="caption-head"></div> <div class="caption-category"></div> </div></a></div> </div></div>
+            <div class="load-more-items"></div></div>		</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-acfe589 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="acfe589" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-0a1c344" data-id="0a1c344" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-e7fe008 elementor-widget__width-auto elementor-widget-tablet__width-auto elementor-widget-mobile__width-inherit elementor-widget elementor-widget-text-editor" data-id="e7fe008" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							Become A Part Of Our Journey 						</div>
+				</div>
+				<div class="elementor-element elementor-element-aad4028 elementor-widget__width-auto elementor-widget elementor-widget-button" data-id="aad4028" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+							<span class="elementor-button-icon elementor-align-icon-right">
+				<i aria-hidden="true" class="jki jki-right-arrow2-light"></i>			</span>
+						<span class="elementor-button-text">Support Us</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-e815557 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e815557" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-83b1aea" data-id="83b1aea" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-3bd64ca elementor-widget elementor-widget-heading" data-id="3bd64ca" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Get A Law Consultation</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-de7bd2c elementor-widget elementor-widget-text-editor" data-id="de7bd2c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-008e5bc" data-id="008e5bc" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-0e0200b elementor-align-right elementor-mobile-align-left elementor-widget elementor-widget-button" data-id="0e0200b" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Contact Us</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-b8e74f9 elementor-widget__width-inherit elementor-align-right elementor-mobile-align-left elementor-widget elementor-widget-button" data-id="b8e74f9" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+							<span class="elementor-button-icon elementor-align-icon-right">
+				<i aria-hidden="true" class="jki jki-right-arrow2-light"></i>			</span>
+						<span class="elementor-button-text">Get Consultation</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-5f0c90e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5f0c90e" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-bfbfdf6" data-id="bfbfdf6" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-303d47a animated-slow elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="303d47a" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInUp&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-3978cb6" data-id="3978cb6" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-9862652 elementor-widget elementor-widget-jkit_fun_fact" data-id="9862652" data-element_type="widget" data-widget_type="jkit_fun_fact.default">
+				<div class="elementor-widget-container">
+			<div  class="jeg-elementor-kit jkit-fun-fact align-center hover-from-left elementor-animation- jeg_module_6_9_62a821fc7105f" ><div class=fun-fact-inner>
+            <div class="content">
+                <div class="number-wrapper">
+        <span class="number" data-value="21" data-animation-duration="3500">0</span>
+        K<sup class="super">+</sup></div>
+                <span class="title">Active Volunteer</span>
+            </div>
+        </div></div>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-89a1725" data-id="89a1725" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-b7935be elementor-widget elementor-widget-jkit_fun_fact" data-id="b7935be" data-element_type="widget" data-widget_type="jkit_fun_fact.default">
+				<div class="elementor-widget-container">
+			<div  class="jeg-elementor-kit jkit-fun-fact align-center hover-from-left elementor-animation- jeg_module_6_10_62a821fc72962" ><div class=fun-fact-inner>
+            <div class="content">
+                <div class="number-wrapper">
+        <span class="number" data-value="68" data-animation-duration="3500">0</span>
+        <sup class="super">+</sup></div>
+                <span class="title">Area Coverage</span>
+            </div>
+        </div></div>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-2f66995" data-id="2f66995" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-db8d787 elementor-widget elementor-widget-jkit_fun_fact" data-id="db8d787" data-element_type="widget" data-widget_type="jkit_fun_fact.default">
+				<div class="elementor-widget-container">
+			<div  class="jeg-elementor-kit jkit-fun-fact align-center hover-from-left elementor-animation- jeg_module_6_11_62a821fc73d28" ><div class=fun-fact-inner>
+            <div class="content">
+                <div class="number-wrapper">
+        <span class="number" data-value="158" data-animation-duration="3500">0</span>
+        <sup class="super">+</sup></div>
+                <span class="title">Success Campaign</span>
+            </div>
+        </div></div>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-57d0dd8" data-id="57d0dd8" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-48e1c21 elementor-widget elementor-widget-jkit_fun_fact" data-id="48e1c21" data-element_type="widget" data-widget_type="jkit_fun_fact.default">
+				<div class="elementor-widget-container">
+			<div  class="jeg-elementor-kit jkit-fun-fact align-center hover-from-left elementor-animation- jeg_module_6_12_62a821fc758df" ><div class=fun-fact-inner>
+            <div class="content">
+                <div class="number-wrapper">
+        <span class="number" data-value="30" data-animation-duration="3500">0</span>
+        <sup class="super">+</sup></div>
+                <span class="title">Year Experience</span>
+            </div>
+        </div></div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-66956fd elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="66956fd" data-element_type="section">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-c1c0a7e" data-id="c1c0a7e" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-31ebf32 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="31ebf32" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-17a7a1c" data-id="17a7a1c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-114599c elementor-widget__width-auto elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="114599c" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-flag"></i>						</span>
+										<span class="elementor-icon-list-text">Our News</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-0442668 elementor-widget elementor-widget-heading" data-id="0442668" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">News & Article</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-c1ec9b1 elementor-widget elementor-widget-text-editor" data-id="c1ec9b1" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
 
-<!-- Dynamic page generated in 0.959 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2022-06-14 05:51:56 -->
-
-<!-- super cache -->
