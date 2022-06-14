@@ -39,7 +39,7 @@
 <div class="imgBox">
     <img class="img-slide img1" src="https://pic.imgdb.cn/item/62931864094754312914ff79.jpg" alt="1">
     <img class="img-slide img2" src="https://pic.imgdb.cn/item/62a85b6c094754312971a13e.jpg" alt="2">
-    <img class="img-slide img3" src="https://pic.imgdb.cn/item/62931864094754312914ff79.jpg" alt="3">
+    <img class="img-slide img3" src="https://pic.imgdb.cn/item/62a86a4e09475431298c7ac5.jpg" alt="3">
 </div>
 </body>
 <script type="text/javascript">
