@@ -24,12 +24,7 @@ float: left;
 <div id="demo">
 <div id="indemo">
 <div id="demo1">
-<a href="#"><img src="https://pic.imgdb.cn/item/62931864094754312914ff79.jpg" border="0" /></a>
-<a href="#"><img src="https://pic.imgdb.cn/item/62a85b9a0947543129720b2c.jpg" border="0" /></a>
-<a href="#"><img src="https://pic.imgdb.cn/item/62a85b6c094754312971a13e.jpg" border="0" /></a>
-<a href="#"><img src="https://pic.imgdb.cn/item/6299860c094754312949728c.jpg" border="0" /></a>
-<a href="#"><img src="http://www.cnrui.cn/other/link/Clear_logo.gif" border="0" /></a>
-<a href="#"><img src="http://www.cnrui.cn/other/link/Clear_logo.gif" border="0" /></a>
+<a href="#"><img src="https://pic.imgdb.cn/item/6294dee30947543129597092.jpg" border="0" /></a>
 </div>
 <div id="demo2"></div>
 </div>
