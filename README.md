@@ -11,7 +11,7 @@ border: 3px solid #F2F2F2;
 }
 #indemo {
 float: left;
-width: 100%;
+width: 200%;
 }
 #demo1 {
 float: left;
