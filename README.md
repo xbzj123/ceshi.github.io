@@ -420,6 +420,6 @@ timer=setInterval(nextimg,4000);
 
      <ul>
 
-       <li class="p1"><a href=""><img src="/static/images/survey_02.png" alt=""   width="300" height="150" /></a></li>
+       <li class="p1"><a href=""><img src="https://pic.imgdb.cn/item/62a85b9a0947543129720b2c.jpg" alt=""   width="300" height="150" /></a></li>
 
-                     <li class="p2"><a href=""><img src="/static/images/survey_02.png" alt=""   width="300" height="150"  /></a></li>
+                     <li class="p2"><a href=""><img src="https://pic.imgdb.cn/item/62931864094754312914ff79.jpg" alt=""   width="300" height="150"  /></a></li>
