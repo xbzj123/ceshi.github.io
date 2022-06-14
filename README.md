@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>轮播图</title>
+    <title></title>
     <style type="text/css">
 
         .imgBox{
@@ -59,4 +59,3 @@
 </script>
 </html>
 
-————————————————
