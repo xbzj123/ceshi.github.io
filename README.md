@@ -1,21 +1,67 @@
-<div class="banner">
-        <img class="change pre"  src="images/pre.png" >
-        <img class="change next" src="images/next.png" >
+<DOCTYPE html>
 
-        <div class="cirbox" >
-            <div class="cir cr"></div>
-            <div class="cir"></div>
-            <div class="cir"></div>
-            <div class="cir"></div>
-        </div>
-        <div class="imgbox">
-            <img class="img im" src="https://pic.imgdb.cn/item/62931864094754312914ff79.jpg">
-            <img class="img" src="https://pic.imgdb.cn/item/62a85b9a0947543129720b2c.jpg">
-            <img class="img" src="https://pic.imgdb.cn/item/62998bd90947543129501da6.jpg">
-            <img class="img" src="https://pic.imgdb.cn/item/62a85b6c094754312971a13e.jpg">
-        </div> 
-    </div>
+<html>
 
-    <div>
+<head>
 
-    </div>
+<meta charset="utf-8" />
+
+<title>
+
+lunbo
+
+</title>
+
+ <link href="css/style.css" rel="stylesheet"/>
+
+   <script src="js/lunbo.js">
+
+   </script>
+
+</head>
+
+<body>
+
+ <div id="container">
+
+   <div id="list" style="left:-600px;">
+
+     <img src="images/5.jpg" alt="5.pg"/>
+
+     <img src="images/1.jpg" alt="5.pg"/>
+
+     <img src="images/2.jpg" alt="5.pg"/>
+
+     <img src="images/3.jpg" alt="5.pg"/>
+
+     <img src="images/4.jpg" alt="5.pg"/>
+
+     <img src="images/5.jpg" alt="5.pg"/>
+
+     <img src="images/1.jpg" alt="5.pg"/>
+
+   </div>
+
+   <div id="buttons">
+
+     <span index="1"class="on"> </span>
+
+     <span index="2"></span>
+
+     <span index="3"></span>
+
+     <span index="4"></span>
+
+     <span index="5"></span>
+
+   </div>
+
+   <a href="javascript:;" class="arrow" id="prev">&lt;</a>
+
+   <a href="javascript:;" class="arrow" id="next">&gt;</a>
+
+ </div>
+
+</body>
+
+</html>
