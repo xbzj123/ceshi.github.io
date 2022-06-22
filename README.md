@@ -1,216 +1,71 @@
-/* ++++++++++++
-   COLOR STYLE
 
-   ++++++++++++ */
+[![Pull Requests Welcome](https://img.shields.io/badge/%E2%9C%9F-%E4%B8%BB%E6%97%A5%E8%AF%81%E9%81%93-brightgreen)](https://xbzj123.github.io/Sunday.github.io/)
+[![first-timers-only Friendly](https://img.shields.io/badge/%E2%9C%9F-%E6%9F%A5%E7%BB%8F%E5%88%86%E4%BA%AB-yellowgreen)](https://xbzj123.github.io/Bible.github.io/)
+[![Open Source Helpers](https://img.shields.io/badge/%E2%9C%9F-%E5%88%9D%E4%BF%A1%E6%A0%BD%E5%9F%B9-orange)](https://xbzj123.github.io/chuxin.github.io/)
+[![Setup Automated](https://img.shields.io/badge/%E2%9C%9F-%E7%81%B5%E4%BF%AE%E5%9B%BE%E7%89%87-blue)](https://www.asuswebstorage.com/navigate/a/#/s/BE676B2CA5B3400CA7273ABFBB76BEFDY)
 
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <style type="text/css">
 
-span.highlight-texts{
-	color:  #FFF;
-}
-span.highlight-text{
-	color:  #111;
-}
+        .imgBox{
+            border-top: 2px solid cadetblue;
+            width: 100%;
+            height: 250px;
+            margin: 0 auto;
 
-span.highlight-text-inverted{
-    color:  #fff;
-}
-.button-solid{
-	background-color:  #111111;
-}
+        }
 
-.button-solid:hover{
-	
-}
-.button-outline-light:hover{
-	background-color:  #111111;
-}
+        .imgBox img{
+            width: 100%;
+            height: 250px;
+            margin: 0 auto;
+            padding-top: 30px;
 
-.button-outline-dark:hover{
-	background-color:  #111111;
-}
+        }
 
-.button-outline-round-dark:hover{
-	background-color:  #111111;
-}
+        .img1{
+            display: block;
+        }
 
-.btn-round{
-	background-color:  #111111;
-}
+        .img2{
+            display: none;
+        }
 
-.btn-round:hover{
-	
-}
-
-.button-outline-round:hover{
-	
-}
-
-.blurb-icon-only i{
-	color:  #111111;
-}
-
-.blurb-icon-only h3{
-	color:  #111111
-}
-
-.blurb-round-icon:hover .icon{
-	background-color:  #111111;
-	
-}
-.blurb-icon-left-square .icon:hover {
-	background-color:  #111111;
-}
-.blurb-round-icon:hover h3{
-	color:  #FFF;
-}
-
-.blurb-icon-left-square:hover .blurb-text h3{
-	color:  #111111;
-}
-
-.blurb-icon-left-square:hover .blurb-text h3:after{
-	background-color:  #111111;
-}
-
-.main-menu .navbar-nav li a:hover,
-.main-menu .navbar-nav li.active a{
-    color: #c3c3c3;
-}
-
-.black-ed p{
-    color:#111;
-}
-
-.slider .sp-selected-button {
-  background-color:  #FFF;
-  
-}
-
-.member-details h3{
-	color:  #111111;
-}
-#scrollUp:hover {
-	background-color:  #111111;
-	}
-
-/* --------- Featured Work ---------- */
-.port-work-details .port-work-desc p a:hover{
-	color:  #111111;
-}
-
-.port-work-details .port-work-desc h3{
-	color:  #111111;
-}
-
-.port-work-details .port-work-desc .like-btn a:hover{
-	color:  #111111;
-}
-
-.port-work-details .port-work-desc .like-btn a:hover i{
-	color:  #111111;
-}
-.work-meta a {
-	color:  #111111;
-	font-size: 45px;
-	padding-top: 35px;
-}
-/* --------- Portfolio Style -----------*/
-.portfolio-filter-btn-group ul li a.selected{
-	background-color: #089EF5;
-}
-
-.portfolio-item .portfolio-details h3{
-	color:  #111111;
-}
-
-.portfolio-item .portfolio-details p a:hover{
-	color:  #111111;
-}
-
-.portfolio-btn-wrapper a.portfolio-btn:hover{
-	color: #ffffff;
-	background-color:  #111111;
-	border: 2px solid transparent;
-}
-.portfolio-details .portfolio-meta-btn ul li:hover {
-	
-	
-}
-.blurb-round-icon:hover {
-	background-color: #323232;
-}
-
-.blurb-round-icon:hover  .blurb-round-icon p:before{
-    color: #FFF !important;
-}
-
-.portfolio-filter-btn-group ul li a {
-	border: 1px solid  #089EF5;
-	margin: 2px;
-	color: #089EF5;
-}
-.custom-sec-text ul li i{
-	color:  #111111;
-}
-.process-item:hover h3{
-	color:  #111111;
-}
- .pricing-titles {
- 	background-color:  #111111;
- 	padding: 20px;
- 	padding-top: 40px;
- }
-.pricing-plans a.signup-btn {
-	background-color:  #111111;
-}
-
-.pricing-plans a.signup-btn:hover{
-	opacity: 0.6;
-}
-.owl-theme .owl-controls .owl-page span {
-  border: 1px solid  #111111;
-}
-
-.owl-theme .owl-controls .owl-page.active span {
-  background-color:  #111111;
-  
-}
-
-.footer-social-info li:hover {
-	background-color:  #111111;
-	
-}
-/* ------- Contact Style ------ */
-.contact-section .contact-form input[type="submit"] {
-	background-color:  #111111;
-}
-.contact-section .contact-form input[type="submit"]:hover {
-	opacity: 0.6;
-}
-.contact-section .contact-address ul li i {
-	background-color:  #111111;
-}
-.contact-details i {
-	color:  #111111;
-}
-
-
-.hoverer:hover .pricing-titles{
-    background-color: #c9c9c9;
-}
-
-.hoverer:hover .pricing-titles h2{
-    color: #111;
-}
-
-.hoverer:hover .pricing-service-name{
-    background-color: #F0F0F0;
-}
-
-.hoverer:hover .bg-btn {
-    background-color:#F0F0F0;
-}
-
-.hoverer:hover .pricing-service-name ul li{
-    color:#111;
-}
+        .img3{
+            display: none;
+        }
+    </style>
+</head>
+<body>
+<p></p>
+<div class="imgBox">
+    <img class="pthree" src="https://pic.imgdb.cn/item/62931864094754312914ff79.jpg" alt="0">
+    <img class="pthree" src="https://pic.imgdb.cn/item/62aef40d09475431297d546c.jpg" alt="1">
+    <img class="pthree" src="https://pic.imgdb.cn/item/62aef40109475431297d3ede.jpg" alt="2">
+    <img class="pthree" src="https://pic.imgdb.cn/item/62aef40109475431297d3ec5.jpg" alt="3">
+    <img class="pthree" src="https://pic.imgdb.cn/item/62aef40109475431297d3ec2.jpg" alt="4">
+    <img class="pthree" src="https://pic.imgdb.cn/item/62aef3f509475431297d310a.jpg" alt="5">
+    <img class="pthree" src="https://pic.imgdb.cn/item/62a86a4e09475431298c7ac5.jpg" alt="6">
+</div>
+</body>
+<script type="text/javascript">
+    var index=0;
+    //效果
+    function ChangeImg() {
+        index++;
+        var a=document.getElementsByClassName("img-slide");
+        if(index>=a.length) index=0;
+        for(var i=0;i<a.length;i++){
+            a[i].style.display='none';
+        }
+        a[index].style.display='block';
+    }
+    //设置定时器，每隔两秒切换一张图片
+    setInterval(ChangeImg,3000);
+</script>
+</html>
+-----------------
+![](https://pic.imgdb.cn/item/62aef79b094754312981d9ab.png)
