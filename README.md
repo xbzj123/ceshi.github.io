@@ -1,11 +1,41 @@
-<div style="position:relative;">
+<!DOCTYPE html>
 
-　　<img src="https://pic.imgdb.cn/item/62931864094754312914ff79.jpg" />
+<html>
 
-　　<div style="position:absolute; z-index:20; left:50px; top:50px">
+    <head>
 
-　　　　haha
+        <meta charset="UTF-8">
 
-　　</div>
+        <style>
 
-</div>
+            div{
+
+                width: 100%;
+
+                color: red;
+
+                font-size: 20px;
+
+            }
+
+        </style>
+
+    </head>
+
+    <body>
+
+        <div style="position:relative;">
+
+        　　<img src="demo/img/5.jpg" width="500"/>
+
+        　　<div style="position:absolute; z-index:2; left:10px; top:10px">
+
+        　　　　haha
+
+        　　</div>
+
+        </div>
+
+    </body>
+
+</html>
