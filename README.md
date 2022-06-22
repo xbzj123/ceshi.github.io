@@ -2,7 +2,7 @@
 
 　　<img src="https://pic.imgdb.cn/item/62931864094754312914ff79.jpg" />
 
-　　<div style="position:absolute; z-index:2; left:10px; top:10px">
+　　<div style="position:absolute; z-index:20; left:50px; top:50px">
 
 　　　　haha
 
