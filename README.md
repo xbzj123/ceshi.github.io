@@ -79,3 +79,28 @@
      <img class="pthree" src="https://pic.imgdb.cn/item/62a86a4e09475431298c7ac5.jpg" alt="6">
      <p>啊啊 啊啊啊啊啊isjd家阿克莱斯酒店卡拉蜂</p>
     
+    <head>
+<title>框架</title>
+<style>
+.father{
+width:500px;
+height:250px;
+border:1px
+solid
+#f76f01;
+background-color:#ffffff;
+}.son1{
+float:left;
+font:12px;
+height:
+}
+</style>
+</head>
+<body>
+<div
+class="father"><div
+class="son1"
+style="background-image:url(image/1.jpg);width:100%;height:50px">把此文字放在上面的粗条上</div>
+</div>
+</body>
+</html>
